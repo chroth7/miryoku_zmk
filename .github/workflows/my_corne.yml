@@ -9,5 +9,5 @@ jobs:
     secrets: inherit
     with:
       board: '["seeeduino_xiao_ble"]'
-      shield: '["corne_left","corne_right"]'
+      shield: '["corne_xiao_v2_left","corne_xioa_v2_right"]'
       # kconfig: '["CONFIG_ZMK_DISPLAY=y"]'
