@@ -1,6 +1,0 @@
-include:
-  - board: seeeduino_xiao_ble
-    shield: corne_left
-  - board: seeeduino_xiao_ble
-    shield: corne_right
-# there is no settingsreset (needed) for the XIAO
