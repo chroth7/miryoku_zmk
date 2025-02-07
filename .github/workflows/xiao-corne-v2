@@ -1,7 +1,0 @@
-# Copyright 2023 Manna Harbour
-# https://github.com/manna-harbour/miryoku
-
-outboard_repository=https://github.com/friction07/zmk-config-corne-xiao
-outboard_ref=main
-outboard_from=boards/shields/corne_xiao_v2
-outboard_to=boards/shields/xiao-corne-v2
