@@ -10,5 +10,5 @@ jobs:
     with:
       board: '["seeeduino_xiao_ble"]'
       # shield: '["xiao_corne_v2_left","xiao_corne_v2_right"]'
-      shield: '["corne_choc_left","corne_choc_right"]'
+      shield: '["choc-corne_left","choc-corne_right"]'
       # kconfig: '["CONFIG_ZMK_DISPLAY=y"]'
